@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    width: 18rem;
+    height: 15rem;
+  }
+
+.img-cup{
+    width: 150px;
+    height: 80px;
+}
+
+.card p {
+    font-size: 20px;
+}
+.card-body {
+    padding-bottom: 0;
+}
+.direccion {
+    font-family: 'Roboto', light;
+    font-size: 16px;
+    text-align: left;
+    color: #707070;
+}
+
+.direccion i{
+    font-size: 13px;
+    padding: 5px;
+}
+.precio {
+    text-align: right;
+}
+.precio-old {
+    font-size: 13px;
+    color: #707070;
+    margin-right: 5px;
+    text-decoration: line-through;
+}
+.precio-new {
+    font-size: 20px;
+    color: #28A745;
+}
+
+.formulario {
+    width: 100%;
+    background: #28A745;
+    padding: 5px;
+}
